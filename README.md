@@ -29,14 +29,14 @@ python personal_voice_assistant.py
 ## Usage
 Once the script is running, the voice assistant will greet the user and await commands. The user can then speak commands such as:
 
-*"Wikipedia <query>"
-*"Open YouTube"
-*"Open Google"
-*"Play Music"
-*"The Time"
-*"Open Brave"
+* "Wikipedia <query>"
+* "Open YouTube"
+* "Open Google"
+* "Play Music"
+* "The Time"
+* "Open Brave"
 
 ## Contribution
 Contributions are always welcome! If you have any suggestions or ideas for improvement, feel free to create an issue or submit a pull request.
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
